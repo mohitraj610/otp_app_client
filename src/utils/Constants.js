@@ -1,2 +1,2 @@
 //export const BASE_API_URL= "http://localhost:3001"
-export const BASE_API_URL= "https://otp-app-server.herokuapp.com"
+export const BASE_API_URL= "https://courageous-trifle-b237da.netlify.app"

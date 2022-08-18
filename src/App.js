@@ -4,7 +4,7 @@ import SignupPage from './pages/signupPage/signupPage';
 import HomePage from './pages/homePage/homePage';
 import { useEffect, useState } from "react";
 import {BrowserRouter as Router,Route,Routes} from 'react-router-dom';
-import {AuthContext, authContext} from './helper/authContext';
+import {AuthContext} from './helper/authContext';
 import BorrowRequest from './pages/borrowRequest/borrowRequest';
 
 function App() {
